@@ -1,1 +1,1 @@
-# Data-Science-Project-Spotify-API-NALYSIS
+# Data Science Project Spotify API ANALYSIS
